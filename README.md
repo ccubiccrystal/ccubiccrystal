@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @crystalhedgies
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning SQLite
-- 😄 Pronouns: it/its
 - ⚡ Fun fact: I like Sonic the Hedgehog!
 
 <!---
