@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccubiccrystal
 - 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning SQLite
+- 🌱 I’m currently learning NodeJS and PostgreSQL!
 - ⚡ Fun fact: I like Sonic the Hedgehog!
 
 <!---
