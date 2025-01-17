@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crystalhedgies
+- 👋 Hi, I’m @ccubiccrystal
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning SQLite
 - ⚡ Fun fact: I like Sonic the Hedgehog!
